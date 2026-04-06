@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+data/trackman/captures/
+data/trackman/browser-profile/

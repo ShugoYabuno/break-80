@@ -1,0 +1,13 @@
+{
+  "name": "break-80",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Golf practice notes and Trackman import helpers for breaking 80.",
+  "scripts": {
+    "trackman:import": "node scripts/trackman-import.js",
+    "trackman:import:headless": "node scripts/trackman-import.js --headless"
+  },
+  "dependencies": {
+    "playwright": "^1.53.1"
+  }
+}

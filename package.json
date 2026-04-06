@@ -5,7 +5,8 @@
   "description": "Golf practice notes and Trackman import helpers for breaking 80.",
   "scripts": {
     "trackman:import": "node scripts/trackman-import.js",
-    "trackman:import:headless": "node scripts/trackman-import.js --headless"
+    "trackman:import:headless": "node scripts/trackman-import.js --headless",
+    "trackman:browser-script": "node -e \"console.log(require('fs').readFileSync('scripts/trackman-browser-extract.js','utf8'))\""
   },
   "dependencies": {
     "playwright": "^1.53.1"

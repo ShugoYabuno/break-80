@@ -14,6 +14,7 @@
 - `portal.trackmangolf.com/player/activities` を開く
 - ログイン後の表示内容を `png / html / txt / json` で保存する
 - 練習ログ用の下書き `practice-log-draft.md` を作る
+- 必要なら別方式として、ブラウザ内 JavaScript でその場の DOM を JSON 抽出できる
 
 ## できないこと
 - ログインを完全自動化すること
@@ -40,3 +41,4 @@
 - このプロジェクトでは `左OB削減` が最優先なので、下書きも `右OK・左NG` の基準で読む
 - 画面に見えていない数値は拾えない
 - 正式ログにする前に、左ミス本数やクラブ別 Carry を必ず目視確認する
+- ブラウザ内 JS 版を使いたいときは `docs/trackman-browser-js.md` を参照

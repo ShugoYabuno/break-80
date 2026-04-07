@@ -40,8 +40,9 @@
 ## クイックスタート
 1. ラウンド前に `checklists/round-checklist.md` を確認する
 2. 練習ごとに `templates/practice-log.md` をコピーして記録する
-3. ラウンドごとに `templates/round-log.md` をコピーして記録する
-4. 週1で `templates/weekly-review.md` をコピーして改善点を1つだけ決める
+3. レッスン後は `templates/lesson-log.md` を使い、毎回同じ9問で振り返る
+4. ラウンドごとに `templates/round-log.md` をコピーして記録する
+5. 週1で `templates/weekly-review.md` をコピーして改善点を1つだけ決める
 
 ## Trackman 連携
 
